@@ -1,4 +1,3 @@
-### Fixes
+### Features
 
-* Fix the issue of not disabling tcp keepalive when configuring `tcp_keepalive` = -1 in frps.
-* Fix a race condition error.
+* Support metadatas and annotations in frpc proxy commands.
